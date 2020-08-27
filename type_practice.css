@@ -1,0 +1,33 @@
+body, html {
+    background-image: url('https://images.unsplash.com/photo-1598364804124-48256e5e1ad7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=658&q=80');
+    text-align: center;
+    display: flex;
+    flex-flow: column;
+}
+
+.score{
+
+}
+
+.type_text_container{
+    display: none;
+    border: 5px solid black;
+    margin: 1rem;
+    padding: 1rem;
+}
+.reset{
+    display: none;
+}
+
+.correct{
+    background:greenyellow;
+    color: white;
+}
+.incorrect{
+    background: red;
+    color: white;
+}
+
+.button{
+    
+}
